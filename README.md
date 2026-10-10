@@ -51,10 +51,8 @@ A infraestrutura virtualizada foi configurada com os seguintes parâmetros técn
 
 ```bash
 # Fluxo de comandos executado no terminal
-$ mkdir ATIVIDADES_LABORATORIO
-$ cd ATIVIDADES_LABORATORIO
-$ mkdir atividade1 && cd atividade1
-$ pwd
+$mkdir ATIVIDADES_LABORATORIO$ cd ATIVIDADES_LABORATORIO
+$mkdir atividade1 && cd atividade1$ pwd
 /home/usuario/ATIVIDADES_LABORATORIO/atividade1
 
 $ cat > disciplinas_semestre << EOF
